@@ -1,7 +1,7 @@
-Mission 3 - Hakuna Fermata
-Logan Mulkerin
-Computational Creativity at Bowdoin College, taught by Professor Harmon
-December of 2025
+Mission 3 - Hakuna Fermata  
+Logan Mulkerin  
+Computational Creativity at Bowdoin College, taught by Professor Harmon  
+December of 2025 
 
 **Relax and Recurse**
 
@@ -10,34 +10,34 @@ This repo contains a Sonic Pi file containing background music for an educationa
 
 
 # Song lyrics:
-Call the function, pass it in,
-Watch the cycle soon begin.
-Break down a problem into clones,
-Solve the small, then return home.
-🎶
-Every step a smaller call,
-Shrinking problems, one and all.
-🎶
-Reeeeeeeeecuuuursion
-It’s calling itself and then,
-A spiral down, back to where it’s been.
-Reeeeeeeeecuuuursion
-When the base case stops the fall,
-We return, to answer the call.
-🎶
-Choose a base case but be wise
-For a bad one is demise.
-Pick the final result there,
-And you should not despair.
-🎶
-Reeeeeeeeecuuuursion
-It’s calling itself and then,
-A spiral down, back to where it’s been.
-Reeeeeeeeecuuuursion
-When the base case stops the fall,
-We return, to answer the call.
-🎶
-Call the function, watch it run
-Recursion ends where it’s begun.
-🎶
+Call the function, pass it in,  
+Watch the cycle soon begin.  
+Break down a problem into clones,  
+Solve the small, then return home.  
+🎶  
+Every step a smaller call,  
+Shrinking problems, one and all.  
+🎶  
+Reeeeeeeeecuuuursion  
+It’s calling itself and then,  
+A spiral down, back to where it’s been.  
+Reeeeeeeeecuuuursion  
+When the base case stops the fall,  
+We return, to answer the call.  
+🎶  
+Choose a base case but be wise  
+For a bad one is demise.  
+Pick the final result there,  
+And you should not despair.  
+🎶  
+Reeeeeeeeecuuuursion  
+It’s calling itself and then,  
+A spiral down, back to where it’s been.  
+Reeeeeeeeecuuuursion  
+When the base case stops the fall,  
+We return, to answer the call.  
+🎶  
+Call the function, watch it run  
+Recursion ends where it’s begun.  
+🎶  
 [final instrumental music]
